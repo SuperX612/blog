@@ -281,7 +281,7 @@ Ctrl+K
 
 ### 10.2、效果
 
-<img src="../../themes/butterfly/source/img/ndmz.jpg" title="一张测试图" style="zoom:40%;" />
+<img src="../../themes/butterfly/source/img/TyporaTutorial/ndmz.jpg" title="一张测试图" style="zoom:40%;" />
 
 ## 十一、表格
 

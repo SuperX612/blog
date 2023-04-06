@@ -118,6 +118,12 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+
+mathjax:
+  enable: true
+  per_page: true
+
+
 markdown:
   preset: "default"
   render:
