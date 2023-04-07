@@ -117,3 +117,6 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+toc:
+  maxdepth: 2

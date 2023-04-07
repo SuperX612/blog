@@ -3,6 +3,10 @@ title: Typora免费安装
 description: "Markdown编辑器Typora免费安装"
 [//]: # (sticky: )
 cover: "/img/setting/marvel.jpg"
+categories:
+- Typora
+tags:
+- Typora
 ---
 
 # Typora免费安装

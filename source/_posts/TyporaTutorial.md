@@ -3,8 +3,13 @@ title: Typora教程
 description: "简单的Typora使用教程"
 [//]: # (sticky: )
 cover: "/img/setting/marvel.jpg"
-mathjax: true
+categories:
+- Typora
+tags:
+- Typora
+toc: true
 ---
+
 # Typora教程
 ## 一、首选项设置
 ### 1.1、设置大纲
