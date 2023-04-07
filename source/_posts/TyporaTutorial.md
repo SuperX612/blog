@@ -1,13 +1,14 @@
 ---
 title: Typora教程
-description: "简单的Typora使用教程"
-[//]: # (sticky: )
-cover: "/img/setting/marvel.jpg"
+description: 简单的Typora使用教程
+cover: /img/setting/marvel.jpg
 categories:
-- Typora
+  - Typora
 tags:
-- Typora
+  - Typora
 toc: true
+abbrlink: de4a8586
+//:
 ---
 
 # Typora教程
