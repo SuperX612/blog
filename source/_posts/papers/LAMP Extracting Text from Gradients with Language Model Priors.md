@@ -3,12 +3,11 @@ title: LAMP Extracting Text from Gradients with Language Model Priors
 description: Nips2022 从梯度中窃取用户私有文本
 cover: /img/setting/marvel.jpg
 categories:
-  - Federated Learning, Gradient Leakage Attack, Security
+  - 'Federated Learning, Gradient Leakage Attack, Security'
 tags:
   - Federated Learning
   - Gradient Leakage Attack
-abbrlink: '0'
-//:
+abbrlink: fbfd6c58
 ---
 
 # LAMP: Extracting Text from Gradients with Language Model Priors
