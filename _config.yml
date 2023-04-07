@@ -106,7 +106,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: 'git'
-    repository: 'git@github.com:SuperX612/SuperX612.github.io.git'
+    repository:
+      coding: https://pmGOgJHpXR:8d2cded61cc354d92e2445901a48355b0647cad1@e.coding.net/automan1999/blog/blog.git
+      github: 'git@github.com:SuperX612/SuperX612.github.io.git'
     branch: main
   - type: baidu_url_submitter
 
