@@ -5,8 +5,9 @@
 menu:
   # 主页: / || fas fa-home
   博文 || fa fa-graduation-cap:
-    分类: /categories/ || fa fa-archive
+    归档: /archives/ || fas fa-archive
     标签: /tags/ || fa fa-tags
+    分类: /categories/ || fas fa-folder-open
   # 生活 || fas fa-list:
     # 分享: /shuoshuo/ || fa fa-comments-o
     # 相册: /photos/ || fa fa-camera-retro

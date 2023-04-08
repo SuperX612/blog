@@ -104,7 +104,7 @@ abbrlink: fbfd6c58
 
 ==注意:==
 
-论文地址: [NeurIPS-2022-lamp-extracting-text-from-gradients-with-language-model-priors-Paper-Conference (NIPS 2022).pdf](NeurIPS-2022-lamp-extracting-text-from-gradients-with-language-model-priors-Paper-Conference (NIPS 2022).pdf)
+论文地址: [NeurIPS-2022-lamp-extracting-text-from-gradients-with-language-model-priors-Paper-Conference (NIPS 2022)](https://openreview.net/forum?id=6iqd9JAVR1z)
 
 开源: https://github.com/eth-sri/lamp
 
